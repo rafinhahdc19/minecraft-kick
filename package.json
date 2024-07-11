@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "minecraft-protocol": "^1.44.0"
+  },
+  "name": "kick-users",
+  "version": "1.0.0",
+  "description": "projeto para desconectar usuarios no minecraft",
+  "main": "index.js",
+ "scripts": {
+    "start": "node index.js"
+  },
+  "author": "anonimo",
+  "license": "MIT",
+  "bin": {
+    "kickusers": "./index.js"
+  }
+}
