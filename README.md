@@ -7,7 +7,7 @@ Este projeto é um bot para expulsar usuários de servidores de Minecraft, mesmo
 ## Funcionalidades
 
 - Expulsa usuários de servidores de Minecraft.
-- Funciona apenas em servidores menores, criados para o modo survival.
+- Funciona apenas em servidores menores.
 - Não funciona em servidores que utilizam plugins de segurança contra este tipo de ação.
 - Expulsa apenas usuários piratas (não originais).
 
